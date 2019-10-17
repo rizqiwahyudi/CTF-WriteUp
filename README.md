@@ -1,5 +1,5 @@
-# CTF_WriteUp_CJ2019
-CTF WriteUp Cyber Jawara 2019
+# WriteUp_CTF_CJ2019
+WriteUp Capture The Flag Cyber Jawara 2019
 
 TIM : SumekarID.CTF
 
